@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diwali-donation/static/css/main.f855e6bc.css",
+    "main.js": "/diwali-donation/static/js/main.615eb1d9.js",
+    "static/js/453.de80beb1.chunk.js": "/diwali-donation/static/js/453.de80beb1.chunk.js",
+    "index.html": "/diwali-donation/index.html",
+    "main.f855e6bc.css.map": "/diwali-donation/static/css/main.f855e6bc.css.map",
+    "main.615eb1d9.js.map": "/diwali-donation/static/js/main.615eb1d9.js.map",
+    "453.de80beb1.chunk.js.map": "/diwali-donation/static/js/453.de80beb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.615eb1d9.js"
+  ]
+}
